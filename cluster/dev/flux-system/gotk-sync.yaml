@@ -10,7 +10,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: https://github.com/rajat965ng/app-flux-infra.git
+  url: https://github.com/krishnakc1/app-flux-infra.git
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1beta1
 kind: Kustomization
