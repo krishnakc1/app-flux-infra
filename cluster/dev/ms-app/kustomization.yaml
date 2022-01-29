@@ -1,3 +1,0 @@
-namespace: ms-app
-resources:
-- deployment.yaml
